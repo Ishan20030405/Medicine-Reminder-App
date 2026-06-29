@@ -1,0 +1,9 @@
+com.example.mad.app-pngs-0 C:\Users\ishan\OneDrive\Desktop\MediRemind\app\build\generated\res\pngs\release
+com.example.mad.app-res-1 C:\Users\ishan\OneDrive\Desktop\MediRemind\app\build\generated\res\processReleaseGoogleServices
+com.example.mad.app-updated_navigation_xml-2 C:\Users\ishan\OneDrive\Desktop\MediRemind\app\build\generated\updated_navigation_xml\release
+com.example.mad.app-packageReleaseResources-3 C:\Users\ishan\OneDrive\Desktop\MediRemind\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.mad.app-packageReleaseResources-4 C:\Users\ishan\OneDrive\Desktop\MediRemind\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.mad.app-release-5 C:\Users\ishan\OneDrive\Desktop\MediRemind\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.mad.app-main-6 C:\Users\ishan\OneDrive\Desktop\MediRemind\app\src\main\res
+com.example.mad.app-release-7 C:\Users\ishan\OneDrive\Desktop\MediRemind\app\src\release\res
+gradleHome-0 C:\Users\ishan\.gradle
