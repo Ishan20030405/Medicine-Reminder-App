@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1053771099261</string>
+    <string name="google_api_key" translatable="false">AIzaSyBG7u4QwFYqPdGK1PzzLj5_XQTb0GkB3po</string>
+    <string name="google_app_id" translatable="false">1:1053771099261:android:5fbeecdb85bd641eefd514</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBG7u4QwFYqPdGK1PzzLj5_XQTb0GkB3po</string>
+    <string name="google_storage_bucket" translatable="false">medireminder-67c71.firebasestorage.app</string>
+    <string name="project_id" translatable="false">medireminder-67c71</string>
+</resources>
