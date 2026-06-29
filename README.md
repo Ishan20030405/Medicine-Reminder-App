@@ -4,8 +4,5 @@ UI / UX Design : https://www.figma.com/design/DSi6j2v0ugfFAuDT40rlYJ/Untitled?no
 Resources :
 https://drive.google.com/file/d/1JeO5nnuPrKHjCD-ssx2LOt-L-MXKJZuX/view?usp=sharing
 
-Final Source Code :
-https://drive.google.com/file/d/1Gh_TNv2u9zlDLJ-19_O0Yr_TMX-mDAQ8/view?usp=sharing
-
 APK File For Testing :
 https://drive.google.com/file/d/1Trn53Lebb72AB_hWlbnyPOuFRXoRImTd/view?usp=sharing
